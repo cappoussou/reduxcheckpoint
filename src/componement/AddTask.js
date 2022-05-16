@@ -33,7 +33,7 @@ export const Addtask = (props) => {
       </div>
       <div className="search-tasks">
         <label>
-          all Tasks
+          All Tasks
           <input
             type="checkbox"
             value="allTasks"
